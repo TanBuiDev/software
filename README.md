@@ -1,6 +1,4 @@
-# 📘 Software Architecture Documentation (Nhóm 7)
-
-Dự án xây dựng tài liệu kiến trúc phần mềm và thực hành quy trình Git Flow (Feature Branch Workflow).
+# Nhóm 17
 
 ## 👥 Danh sách thành viên (Team Members)
 
@@ -9,14 +7,10 @@ Dự án xây dựng tài liệu kiến trúc phần mềm và thực hành quy 
 | 1   | 2280602879 | **Bùi Lê Hoàng Tấn** | 👑 Team Lead   | [@TanBuiDev](https://github.com/TanBuiDev) |
 | 2   | 2280602841 | **Nguyễn Thành Tâm** | Developer      | [@NguyenThanh-Tam](https://github.com/NguyenThanh-Tam) |
 | 3   | 2280603258 | **Nguyễn Chánh Tín** | Developer      | [@ChanhTin3258](https://github.com/ChanhTin3258) |
-| 4   | ...        | **Nguyễn Lê Minh Khôi**| Developer      | [@KhoiNguyen0102](https://github.com/KhoiNguyen0102) |
+| 4   | 2280609812 | **Nguyễn Lê Minh Khôi**| Developer      | [@KhoiNguyen0102](https://github.com/KhoiNguyen0102) |
 | 5   | 2280606102 | **Lê Thành Đạt** | Developer      | [@KevinDat59](https://github.com/KevinDat59) |
 | 6   | 2280606052 | **Đỗ Văn Đạt** | Developer      | [@Dat890369](https://github.com/Dat890369) |
 | 7   | 2280601287 | **Đỗ Gia Hưng** | Developer      | [@Hungboong](https://github.com/Hungboong) |
-
-*(Lưu ý: MSSV của bạn Khôi cần được cập nhật bổ sung)*
-
----
 
 ## 🚀 Quy trình làm việc (Git Workflow)
 
@@ -40,8 +34,6 @@ Nhóm áp dụng mô hình **Git Flow** với các quy tắc nghiêm ngặt:
 3.  Yêu cầu thành viên khác **Review** và **Approve**.
 4.  Merge vào `develop`.
 5.  Release: Merge `develop` -> `main` khi hoàn tất.
-
----
 
 ## 🛠 Cài đặt & Sử dụng
 
